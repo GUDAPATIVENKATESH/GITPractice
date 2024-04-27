@@ -20,4 +20,17 @@ VCS (Version Control System)
    * Changes can be shared between repositories by pushing and pulling changes between them.
    * DVCS systems enable more flexible workflows, branching and merging, and better support for distributed teams.
    * Ex: Git
+
 ![CVCS and DVCS](GITPractice01.jpg)
+
+### GIT
+
+* GIT is a distributed version control system
+#### Areas of GIT
+   * Working Directory / Tree 
+   * Statging / Index Area
+   * Local Repository
+   * Remote Repository
+   * Stash Area
+#### GIT workflow
+![Workflow](GITPractice02.jpg)
