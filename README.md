@@ -34,3 +34,19 @@ VCS (Version Control System)
    * Stash Area
 #### GIT workflow
 ![Workflow](GITPractice02.jpg)
+
+#### Creating local repo
+   * To create a local repo we need to have git installed in the system.
+   * Then initialise a git local repository with `git init`.
+   * This will create a `.git` folder in `pwd`.
+##### Working Directory:
+   * The working directory is the area on your local machine where you edit, modify, and create files. It represents the current state of your project's files.
+##### Staging / Index Area:
+   * The staging area, also known as the index, is an intermediate area where changes to files are prepared before they are committed to the repository.
+   * Files in the staging area are ready to be included in the next commit, but they have not yet been permanently recorded in the repository.
+##### Local Repository:
+   * The local repository is the Git database on your local machine where all the project's history, branches, and commits are stored.
+   * When you commit changes, Git records them in the local repository, creating a new commit object that represents the current state of the project.
+##### Remote Repository:
+   * The remote repository is a Git repository hosted on a remote server, such as GitHub, GitLab, or Bitbucket.
+   * Developers can push changes from their local repository to the remote repository to share their work with others, collaborate on projects, and synchronize changes between multiple contributors.
