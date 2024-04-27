@@ -20,3 +20,4 @@ VCS (Version Control System)
    * Changes can be shared between repositories by pushing and pulling changes between them.
    * DVCS systems enable more flexible workflows, branching and merging, and better support for distributed teams.
    * Ex: Git
+![CVCS and DVCS](GITPractice01.jpg)
